@@ -45,3 +45,4 @@ coverage_html/
 coverage.info
 coverage.lcov
 .coverage
+.vscode
